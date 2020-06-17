@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBackground">#EAD9D9</color>
+    <color name="colorMainText">#673AB7</color>
+    <color name="colorSubText">#FFFFFF</color>
+    <color name="colorSubBackground">#2196F3</color>
+    <color name="colorButtonBackground">#F4F7FA</color>
+    <color name="colorButtonText">#696969</color>
+    <color name="colorCurrentDateText">#6B3CBD</color>
+    <color name="colorCurrentDateSubText">#696969</color>
+    <color name="colorAgeText">#6B3CBD</color>
+    <color name="colorAgeSub">#696969</color>
+</resources>
